@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec java -jar /opt/MELTv2.2.0/MELT.jar "${@}"
